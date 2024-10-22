@@ -1,7 +1,7 @@
 # Simple-Home-Network
 This guide will walk you through setting up a home network using various devices such as smartphones, PCs, laptops, and a printer. The setup includes configuring a home router (PT-AC), securing the network, and ensuring proper connectivity with an ISP.
 
-**Devices Used
+Devices Used
   End Devices:
     Smartphones
     PC
@@ -10,7 +10,7 @@ This guide will walk you through setting up a home network using various devices
     Router:
       Home Router PT-AC
 
-**Step-by-Step Instructions
+Step-by-Step Instructions
 1. Connect End Devices to the Router
   Connect any end device to the router (either wired or wirelessly).
 
